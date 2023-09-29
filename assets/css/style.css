@@ -8,7 +8,7 @@ h1 {
   
   #Hero-Section {
     color: black;
-    background-image: url(/assets/images/descarga.jpg);
+    background-image: url(../images/descarga.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: left;
